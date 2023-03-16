@@ -1,0 +1,49 @@
+.color{
+    background-color: rgb(208, 206, 206);
+}
+.first{
+    background-color: #587c53;
+    color: #587c53;
+    width: 300px;
+    height:270px;
+    transform: rotate(180deg);
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.second{
+    background-color: white;
+    color: white;
+    width: 300px;
+    height: 220px;
+    margin-left: 600px;
+     
+}
+.saerto{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: solid;
+}	
+.txt{
+    display: inline-flex;
+    color: black;
+    margin: 10px 10px;
+   
+}
+.txt2{
+    display: inline-flex;
+    color: gray;
+    margin: 0px 10px;
+    font-family: 'Cambay'
+}	
+.button	{
+	background-color:rgb(46, 46, 250);
+    color:rgb(46, 46, 250) ;
+	border: none;
+	color:white;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 5px;
+	width: 280px;
+    height: 60px;
+    margin: 10px 10px;
+}
